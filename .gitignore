@@ -1,0 +1,4 @@
+esptoolenv/
+steps.md
+zig-cache
+zig-out
